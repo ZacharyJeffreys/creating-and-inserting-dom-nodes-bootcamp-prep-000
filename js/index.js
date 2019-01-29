@@ -1,4 +1,4 @@
 var element = document.createElement('div');
-element.innerHTML = 'Hello, DOM!';
+element.innerHTML = 'Im a savage!';
 element.style.backgroundColor = '#f9f9f9';
 document.body.appendChild(element);
