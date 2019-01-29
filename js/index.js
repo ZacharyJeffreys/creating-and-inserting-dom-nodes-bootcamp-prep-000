@@ -1,1 +1,1 @@
-document.createElement('div')
+var element = document.createElement('div');
